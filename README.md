@@ -71,9 +71,9 @@ Taiga Kagami's combination of athleticism, scoring ability, defensive prowess, a
    - Shinji Koganei: A versatile player with good court vision and passing skills.
 ![alt text!](Shinji.jpg)
    - Satoshi Tsuchida: A supportive and hardworking player who specializes in rebounds and defense.
-![alt text!](aida.jpg)
+![alt text!](satoshi.jpg)
    - Rinnosuke Mitobe: A quiet and reserved player with exceptional strength and defensive skills.
-![alt text!](aida.jpg)
+![alt text!](Rinnosuke.jpg)
 
 4. Generation of Miracles:
    
