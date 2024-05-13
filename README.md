@@ -24,11 +24,16 @@ The author of "Kuroko's Basketball" is Tadatoshi Fujimaki. He both wrote and ill
 
 "Kuroko's Basketball" features a diverse cast of characters, each with their own unique personalities, skills, and backgrounds. Here are some of the main characters:
 
+ ![alt text!](GOM.jpg)
 1. Tetsuya Kuroko: The protagonist of the series, Kuroko is known as the "Phantom Sixth Man" due to his unassuming presence on the basketball court. He possesses exceptional passing and misdirection skills, making him a key player despite his lack of scoring ability.
 
+ ![alt text!](GOM.jpg)
 2. Taiga Kagami: A talented and passionate basketball player who transfers to Seirin High School. Kagami has extraordinary athleticism and a fierce competitive spirit. He becomes Kuroko's teammate and forms a powerful duo with him.
 
 3. Seirin High School Team:
+   
+ ![alt text!](GOM.jpg)
+   
    - Junpei Hyuga: The captain of the Seirin basketball team. He is a skilled shooter and a reliable leader.
    - Riko Aida: The team's coach and manager. She is known for her analytical mind and strategic coaching.
    - Shun Izuki: A witty and perceptive player known for his ability to analyze opponents' movements and weaknesses.
@@ -36,7 +41,10 @@ The author of "Kuroko's Basketball" is Tadatoshi Fujimaki. He both wrote and ill
    - Satoshi Tsuchida: A supportive and hardworking player who specializes in rebounds and defense.
    - Rinnosuke Mitobe: A quiet and reserved player with exceptional strength and defensive skills.
 
-4. Generation of Miracles:
+5. Generation of Miracles:
+   
+![alt text!](GOM.jpg)
+
    - Daiki Aomine: Known as the "Ace" of the Generation of Miracles, Aomine is an exceptionally talented player with incredible speed and scoring ability.
    - Ryota Kise: A model-like player with the ability to copy and mimic the moves of other players. He is known for his versatility and charisma.
    - Shintaro Midorima: A superstitious player who excels in long-range shooting. He carries a lucky item with him at all times and has remarkable accuracy from anywhere on the court.
