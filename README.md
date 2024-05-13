@@ -65,11 +65,15 @@ Taiga Kagami's combination of athleticism, scoring ability, defensive prowess, a
    - Junpei Hyuga: The captain of the Seirin basketball team. He is a skilled shooter and a reliable leader.
 ![alt text!](Junpelh.jpg)
    - Riko Aida: The team's coach and manager. She is known for her analytical mind and strategic coaching.
-![alt text!](Junpelh.jpg)
+![alt text!](aida.jpg)
    - Shun Izuki: A witty and perceptive player known for his ability to analyze opponents' movements and weaknesses.
+![alt text!](aida.jpg)
    - Shinji Koganei: A versatile player with good court vision and passing skills.
+![alt text!](aida.jpg)
    - Satoshi Tsuchida: A supportive and hardworking player who specializes in rebounds and defense.
+![alt text!](aida.jpg)
    - Rinnosuke Mitobe: A quiet and reserved player with exceptional strength and defensive skills.
+![alt text!](aida.jpg)
 
 4. Generation of Miracles:
    
