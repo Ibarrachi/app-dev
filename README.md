@@ -16,7 +16,7 @@ Throughout the series, there's a mix of intense basketball matches, character de
 
 # Author
 
-![alt text!]()
+![alt text!](Author.jpg)
 
 The author of "Kuroko's Basketball" is Tadatoshi Fujimaki. He both wrote and illustrated the manga series. Fujimaki-sensei's work on "Kuroko's Basketball" has earned him widespread recognition and praise within the manga and anime community.
 
