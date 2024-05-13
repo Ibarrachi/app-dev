@@ -24,7 +24,7 @@ The author of "Kuroko's Basketball" is Tadatoshi Fujimaki. He both wrote and ill
 
 "Kuroko's Basketball" features a diverse cast of characters, each with their own unique personalities, skills, and backgrounds. Here are some of the main characters:
 
- ![alt text!](GOM.jpg)
+ ![alt text!](tetsuya.jpg)
 1. Tetsuya Kuroko: The protagonist of the series, Kuroko is known as the "Phantom Sixth Man" due to his unassuming presence on the basketball court. He possesses exceptional passing and misdirection skills, making him a key player despite his lack of scoring ability.
 
  ![alt text!](GOM.jpg)
