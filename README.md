@@ -63,7 +63,9 @@ Taiga Kagami's combination of athleticism, scoring ability, defensive prowess, a
 ![alt text!](seirin.jpg)
    
    - Junpei Hyuga: The captain of the Seirin basketball team. He is a skilled shooter and a reliable leader.
+![alt text!](Junpelh.jpg)
    - Riko Aida: The team's coach and manager. She is known for her analytical mind and strategic coaching.
+![alt text!](Junpelh.jpg)
    - Shun Izuki: A witty and perceptive player known for his ability to analyze opponents' movements and weaknesses.
    - Shinji Koganei: A versatile player with good court vision and passing skills.
    - Satoshi Tsuchida: A supportive and hardworking player who specializes in rebounds and defense.
