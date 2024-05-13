@@ -67,7 +67,7 @@ Taiga Kagami's combination of athleticism, scoring ability, defensive prowess, a
    - Riko Aida: The team's coach and manager. She is known for her analytical mind and strategic coaching.
 ![alt text!](aida.jpg)
    - Shun Izuki: A witty and perceptive player known for his ability to analyze opponents' movements and weaknesses.
-![alt text!](aida.jpg)
+![alt text!](Shun.jpg)
    - Shinji Koganei: A versatile player with good court vision and passing skills.
 ![alt text!](aida.jpg)
    - Satoshi Tsuchida: A supportive and hardworking player who specializes in rebounds and defense.
