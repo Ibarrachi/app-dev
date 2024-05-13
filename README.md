@@ -32,7 +32,7 @@ The author of "Kuroko's Basketball" is Tadatoshi Fujimaki. He both wrote and ill
 
 3. Seirin High School Team:
    
- ![alt text!](GOM.jpg)
+ ![alt text!](seirin.jpg)
    
    - Junpei Hyuga: The captain of the Seirin basketball team. He is a skilled shooter and a reliable leader.
    - Riko Aida: The team's coach and manager. She is known for her analytical mind and strategic coaching.
@@ -41,7 +41,7 @@ The author of "Kuroko's Basketball" is Tadatoshi Fujimaki. He both wrote and ill
    - Satoshi Tsuchida: A supportive and hardworking player who specializes in rebounds and defense.
    - Rinnosuke Mitobe: A quiet and reserved player with exceptional strength and defensive skills.
 
-5. Generation of Miracles:
+4. Generation of Miracles:
    
 ![alt text!](GOM.jpg)
 
