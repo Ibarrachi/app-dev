@@ -80,10 +80,15 @@ Taiga Kagami's combination of athleticism, scoring ability, defensive prowess, a
 ![alt text!](GOM.jpg)
 
    - Daiki Aomine: Known as the "Ace" of the Generation of Miracles, Aomine is an exceptionally talented player with incredible speed and scoring ability.
+![alt text!](daiki.jpg)
    - Ryota Kise: A model-like player with the ability to copy and mimic the moves of other players. He is known for his versatility and charisma.
+![alt text!](ryota.jpg)
    - Shintaro Midorima: A superstitious player who excels in long-range shooting. He carries a lucky item with him at all times and has remarkable accuracy from anywhere on the court.
+![alt text!](Midorima.jpg)
    - Atsushi Murasakibara: A towering center with immense strength and natural talent. He is known for his dominance in the paint and lazy demeanor.
+![alt text!](Atsushi.jpg)
    - Seijuro Akashi: The former captain of the Generation of Miracles and the current captain of Rakuzan High School. Akashi is a master strategist and possesses incredible leadership skills, as well as a unique ability to enter a state called the "Zone."
+![alt text!](Akashi.jpg)
 
 These are just a few of the many characters that populate the world of "Kuroko's Basketball," each contributing to the rich tapestry of the story with their own motivations, struggles, and triumphs.
 
