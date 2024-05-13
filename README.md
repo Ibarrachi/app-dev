@@ -13,3 +13,10 @@ The "Generation of Miracles" refers to a group of exceptionally talented basketb
 Throughout the series, there's a mix of intense basketball matches, character development, and themes of friendship, teamwork, and determination. The matches are often depicted with dynamic action sequences and strategic gameplay, showcasing the different playing styles and abilities of the characters.
 
 "Kuroko's Basketball" has garnered a significant following both domestically in Japan and internationally, particularly among fans of sports anime and manga. Its popularity stems from its compelling characters, engaging storyline, and thrilling basketball matches, making it a beloved series in the genre.
+
+# Author
+
+![alt text!]()
+
+The author of "Kuroko's Basketball" is Tadatoshi Fujimaki. He both wrote and illustrated the manga series. Fujimaki-sensei's work on "Kuroko's Basketball" has earned him widespread recognition and praise within the manga and anime community.
+
