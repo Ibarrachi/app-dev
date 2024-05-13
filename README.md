@@ -69,7 +69,7 @@ Taiga Kagami's combination of athleticism, scoring ability, defensive prowess, a
    - Shun Izuki: A witty and perceptive player known for his ability to analyze opponents' movements and weaknesses.
 ![alt text!](Shun.jpg)
    - Shinji Koganei: A versatile player with good court vision and passing skills.
-![alt text!](aida.jpg)
+![alt text!](Shinji.jpg)
    - Satoshi Tsuchida: A supportive and hardworking player who specializes in rebounds and defense.
 ![alt text!](aida.jpg)
    - Rinnosuke Mitobe: A quiet and reserved player with exceptional strength and defensive skills.
