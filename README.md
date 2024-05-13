@@ -24,15 +24,17 @@ The author of "Kuroko's Basketball" is Tadatoshi Fujimaki. He both wrote and ill
 
 "Kuroko's Basketball" features a diverse cast of characters, each with their own unique personalities, skills, and backgrounds. Here are some of the main characters:
 
- ![alt text!](tetsuya.jpg)
 1. Tetsuya Kuroko: The protagonist of the series, Kuroko is known as the "Phantom Sixth Man" due to his unassuming presence on the basketball court. He possesses exceptional passing and misdirection skills, making him a key player despite his lack of scoring ability.
+  
+![alt text!](tetsuya.jpg)
 
- ![alt text!](GOM.jpg)
-2. Taiga Kagami: A talented and passionate basketball player who transfers to Seirin High School. Kagami has extraordinary athleticism and a fierce competitive spirit. He becomes Kuroko's teammate and forms a powerful duo with him.
+4. Taiga Kagami: A talented and passionate basketball player who transfers to Seirin High School. Kagami has extraordinary athleticism and a fierce competitive spirit. He becomes Kuroko's teammate and forms a powerful duo with him.
+
+![alt text!](ta.jpg)
 
 3. Seirin High School Team:
    
- ![alt text!](seirin.jpg)
+![alt text!](seirin.jpg)
    
    - Junpei Hyuga: The captain of the Seirin basketball team. He is a skilled shooter and a reliable leader.
    - Riko Aida: The team's coach and manager. She is known for her analytical mind and strategic coaching.
